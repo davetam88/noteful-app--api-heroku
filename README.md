@@ -4,7 +4,10 @@ Noteful-API--Heroku
 
 ## >> Project Summary:
 
-This assignment converts local version of Noteful server [Noteful-Server--Express-PostgreSQL](https://github.com/davetam88/Noteful-Server--Express-PostgreSQL) and deploy it to Heroku server so that the database content can be exposed via a set of API interfaces.
+This assignment converts local version of Noteful server [Noteful-Server--Express-PostgreSQL](https://github.com/davetam88/Noteful-Server--Express-PostgreSQL) and deploy it to Heroku server so that the database content can be exposed via a set of API interfaces.This Server API APP is live at : 
+
+[Noteful-API--Heroku - Live link](https://stormy-depths-51799.herokuapp.com/)
+
 
 The Server APP use PostgreSQL database engine to supplies these APIs.
 
@@ -32,8 +35,8 @@ Database noteful and noteful-test were used; noteful_folders and noteful_notes a
 > POST /notes = create a new noteful note
   Access with the add folder button of the client app
 
-> DELETE /note/id = to delete an individual noteful
-  Access with the delete note button next to the note.
+> DELETE /note/id = to delete an individual noteful note
+  Access with the delete note button next to the note
 ```
 
 ## >> Screenshots
