@@ -13,7 +13,7 @@ The Server APP use PostgreSQL database engine to supplies these APIs.
 
 These API was used by the online version of the Noteful Client [Noteful-Client--React-Router](https://github.com/davetam88/Noteful-Client--React-Router) to emulate a Note management APP. This client app is live at :
 
-[Noteful-Client--React-Router - live link](https://noteful-client-test1.vercel.app/)
+[Noteful-Client--React-Router - live link at Vercel](https://noteful-client-test1.vercel.app/)
 
 Integrated test was developed in tandem with API code development by using Mocha(a testing framework), Chai(an assertion library), and Supertest(a tool for testing HTTP calls) to ensure maximum code reliability.
 
