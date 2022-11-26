@@ -4,3 +4,8 @@ node_modules
 local
 .vscode
 info.log
+
+###
+.eslintcache
+.vercel
+build
