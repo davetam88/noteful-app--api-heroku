@@ -9,3 +9,16 @@ info.log
 .eslintcache
 .vercel
 build
+###
+.DS_STORE
+node_modules
+.eslintcache
+/local
+/code
+.env
+.vscode
+.vercel
+*.log
+info.log
+build
+
